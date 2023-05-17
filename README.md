@@ -2,6 +2,8 @@
 This is a simple convolutional neural network project. The project identifies whether a leaf is diseased or healthy, based on the image provided by the user.
 
 To RUN the code, follow these steps:
+
+
 #STEP 1: 
   --> Download the dataset and save it in your local directory
 
